@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: ockham
+# theme: ockham
 remote_theme: zivong/ockham
 plugins:
   - jekyll-feed
